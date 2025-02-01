@@ -27,7 +27,7 @@
 
 ####  📚 Sobre a Organização
 
-Esta organização reúne projetos desenvolvidos nas disciplinas ministradas pelo Prof. Ramon Mayor Martins no Instituto Federal de Santa Catarina - Campus São José. As disciplinas abrangem diferentes cursos e áreas de conhecimento na computação.
+Esta organização reúne projetos desenvolvidos nas disciplinas ministradas pelo Prof. Dr. Ramon Mayor Martins no Instituto Federal de Santa Catarina - Campus São José. As disciplinas abrangem diferentes cursos e áreas de conhecimento na computação.
 
 ---
 
@@ -88,7 +88,7 @@ Utilizamos GitHub Codespaces para o ambiente de desenvolvimento:
 
 #### 🧰 Mantenedor
 ```
-Prof. Ramon Mayor Martins
+Prof. Dr. Ramon Mayor Martins
 Professor do IFSC - Campus São José
 Áreas: Programação, Algoritmos e Estruturas de Dados
 [Website Pessoal](https://rmayormartins.github.io/)
