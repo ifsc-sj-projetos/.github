@@ -65,7 +65,7 @@ Esta organização reúne projetos desenvolvidos nas disciplinas ministradas pel
 
 ---
 
-### Distribuição de Linguagens
+#### 🖥️ Distribuição de Linguagens
 
 ```mermaid
 pie
