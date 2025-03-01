@@ -31,60 +31,52 @@ Esta organização reúne projetos desenvolvidos nas disciplinas ministradas pel
 
 ---
 
-####  Disciplinas
+####  🛠️Disciplinas e Ambientes de Desenvolvimento
 
-```
-Curso: Engenharia de Telecomunicações
-Disciplina: PRG129001 - Programação I
-Linguagem: C
-[Ambiente de Desenvolvimento](https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1)
-Foco em fundamentos de programação estruturada
-```
-```
-Curso: Engenharia de Telecomunicações
-Disciplina: POO129003 - Programação Orientada a Objetos
-Linguagem: Java
-[Ambiente de Desenvolvimento](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO)
-Conceitos de OOP aplicados à Engenharia
-```
-```
-Curso: Análise e Desenvolvimento de Sistemas
-Disciplina: POO786202 - Programação Orientada a Objetos
-Linguagem: Java
-[Ambiente de Desenvolvimento](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO)
-Aprofundamento em paradigmas OOP
-```
-```
-Curso: Análise e Desenvolvimento de Sistemas
-Disciplina: ALG786201 - Algoritmos e Pensamento Computacional
-Linguagem: Java
-[Ambiente de Desenvolvimento](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO)
-Pensamento computacional, fundamentos de lógica e algoritmos
-```
----
 
-#### 🛠️ Ambientes de Desenvolvimento
-
-Utilizamos GitHub Codespaces para o ambiente de desenvolvimento:
-
-- **C (PROGI - ENG)**: [IFSC-Codespace-ENG-C-PRG1](https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1)
-- **Java (POO e ALG - ENG e ADS)**: [IFSC-Codespace-ENG-ADS-JAVA-POO](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO)
+| Curso                                 | Disciplina                                        | Linguagem | Ambiente de Desenvolvimento                                                | Objetivo                                                     |
+| ------------------------------------- | ------------------------------------------------- | --------- | -------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Engenharia de Telecomunicações        | PRG129001 - Programação I                         | C         | [GitHub](https://github.com/rmayormartins/IFSC-Codespace-ENG-C-PRG1)       | Fundamentos de programação estruturada                       |
+| Engenharia de Telecomunicações        | POO129003 - Programação Orientada a Objetos       | Java      | [GitHub](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO) | Conceitos de OOP aplicados à Engenharia                      |
+| Análise e Desenvolvimento de Sistemas | POO786202 - Programação Orientada a Objetos       | Java      | [GitHub](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO) | Aprofundamento em paradigmas OOP                             |
+| Análise e Desenvolvimento de Sistemas | ALG786201 - Algoritmos e Pensamento Computacional | Java      | [GitHub](https://github.com/rmayormartins/IFSC-Codespace-ENG-ADS-JAVA-POO) | Pensamento computacional, fundamentos de lógica e algoritmos |
 
 ---
 
-#### 📅 Timeline da Organização
-```
-- 2024.1: Início das atividades
-- Atualização contínua com novos projetos e materiais das disciplinas
-```
+#### 🗄️ Indice de Projetos de Jogos
+
+
+| Data       | Curso  | Disciplina | Linguagem | Nome do Jogo       | Criador            | Público |
+|------------|--------|------------|-----------|--------------------|--------------------|---------|
+| 2024-2     | ENG    | POO        | Java      | Campo Minado       | iurid2003          | Privado |
+| 2024-2     | ENG    | POO        | Java      | blobs              | lucas-ssf          | Público |
+| 2024-2     | ENG    | POO        | Java      | Tetris             | jessicac13         | Privado |
+| 2024-2     | ENG    | POO        | Java      | SpaceKraus         | GabrielKkraus      | Privado |
+| 2024-2     | ENG    | PROG1      | C         | Jogo da Forca      | jessicaveig        | Privado |
+| 2024-2     | ENG    | PROG1      | C         | Batalha Naval      | Jerrique           | Público |
+| 2024-2     | ENG    | PROG1      | C         | Jogo da Velha      | arthuroliveira     | Público |
+| 2024-2     | ENG    | PROG1      | C         | Jogo da Forca      | BryanPacheco97     | Público |
+| 2024-2     | ENG    | PROG1      | C         | Jogo da Velha      | nicolas12091209    | Privado |
+| 2024-2     | ENG    | PROG1      | C         | Quiz               | RuhanDiego         | Público |
+| 2024-2     | ADS    | POO        | Java      | Last Days          | Ygor Gouveia da Costa | Público |
+| 2024-2     | ADS    | POO        | Java      | Snake              | nicolasfvp         | Privado |
+| 2024-2     | ADS    | POO        | Java      | CLI Blackjack      | jesse-rr           | Privado |
+| 2024-2     | ADS    | POO        | Java      | Wordle             | sioterino-sx-nt-juliaturness | Público |
+
 ---
 
-#### 🗄️ Indice de repositorios e projetos
+### Distribuição de Linguagens
+
+```mermaid
+pie
+    title Linguagens Utilizadas
+    "Java" : 8
+    "C" : 6
 ```
-- 2024.1: Início das atividades
-- Atualização contínua com novos projetos e materiais das disciplinas
-```
----
+
+*Última atualização: Fevereiro de 2025*
+
+
 
 #### 🧰 Mantenedor
 ```
