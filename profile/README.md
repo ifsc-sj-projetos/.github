@@ -19,7 +19,7 @@
 [![GitHub Codespace](https://img.shields.io/badge/GitHub-Codespace-blue)](#)
 
 
-[Website](https://www.ifsc.edu.br/en/web/campus-sao-jose)) | [GitHub Organization](https://github.com/ifsc-sj-projetos)
+[Website](https://www.ifsc.edu.br/en/web/campus-sao-jose) | [GitHub Organization](https://github.com/ifsc-sj-projetos)
 
 </div>
 
@@ -27,7 +27,7 @@
 
 ####  📚 Sobre a Organização
 
-Esta organização reúne projetos desenvolvidos nas disciplinas ministradas pelo Prof. Dr. Ramon Mayor Martins no Instituto Federal de Santa Catarina - Campus São José. As disciplinas abrangem diferentes cursos e áreas de conhecimento na computação.
+Esta organização reúne projetos desenvolvidos nas disciplinas ministradas pelo Prof. [Dr. Ramon Mayor Martins](rmayormartins.github.io) no [Instituto Federal de Santa Catarina - Campus São José](ifsc.edu.br). As disciplinas abrangem diferentes cursos e áreas de conhecimento na computação.
 
 ---
 
