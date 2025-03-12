@@ -2,7 +2,7 @@
   <tr>
     <td style="border: 1px solid black; padding: 5px;">
       <p style="text-align: center;">Bem vindos a Organização</p>
-      <p style="text-align: center;"><a href="https://github.com/ifsc-sj-projetos/" target="_blank">IFSC-SJ-Projetos</a></p>
+      <p style="text-align: center;"><a href="https://github.com/ifsc-sj-projetos/" target="_blank">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspIFSC-SJ-Projetos</a></p>
     </td>
   </tr>
 </table>
@@ -73,10 +73,9 @@ pie
     "Java" : 8
     "C" : 6
 ```
+---
 
 *Última atualização: Fevereiro de 2025*
-
-
 
 #### 🧰 Mantenedor
 ```
