@@ -46,8 +46,19 @@ Esta organização reúne projetos desenvolvidos nas disciplinas ministradas pel
 #### 🗄️ Indice de Projetos de Jogos
 
 
-| Data       | Curso  | Disciplina | Linguagem | Nome do Jogo       | Criador            | Público |
-|------------|--------|------------|-----------|--------------------|--------------------|---------|
+| Data       | Curso  | Disciplina | Linguagem | Nome do Jogo       | Criador                        | Público  |
+|------------|--------|------------|-----------|--------------------|---------------------------------|----------|
+| 2025-1     | ADS    | ALG        | Java      | Jogo da Forca      | kaleu-b                        | Público  |
+| 2025-1     | ADS    | ALG        | Java      | Dagrao Clicker     | daniel-jose-lucius             | Público  |
+| 2025-1     | ADS    | ALG        | Java      | Campo Minado       | daniel                         | Público  |
+| 2025-1     | ADS    | ALG        | Java      | Campo Minado       | leonardovictor-joaovictor      | Público  |
+| 2025-1     | ADS    | ALG        | Java      | INF0 Terminal      | marcosjr                       | Público  |
+| 2025-1     | ADS    | ALG        | Java      | Pixel Art          | Damares-Noemi                  | Público  |
+| 2025-1     | ADS    | ALG        | Java      | Quiz FORTRAN       | nicolas-lucas                  | Público  |
+| 2025-1     | ADS    | ALG        | Java      | Jogo da Velha      | gustavo-victoreduardo          | Público  |
+| 2025-1     | ADS    | ALG        | Java      | Jogo Adivinhação   | gelson                         | Privado  |
+| 2025-1     | ADS    | ALG        | Java      | Blackjack 21       | isack                          | Público  |
+| 2025-1     | ADS    | ALG        | Java      | Jogo da Velha      | Julianotavares-Artur           | Privado  |
 | 2024-2     | ENG    | POO        | Java      | Campo Minado       | iurid2003          | Privado |
 | 2024-2     | ENG    | POO        | Java      | blobs              | lucas-ssf          | Público |
 | 2024-2     | ENG    | POO        | Java      | Tetris             | jessicac13         | Privado |
@@ -70,7 +81,7 @@ Esta organização reúne projetos desenvolvidos nas disciplinas ministradas pel
 ```mermaid
 pie
     title Linguagens Utilizadas
-    "Java" : 8
+    "Java" : 19
     "C" : 6
 ```
 ---
